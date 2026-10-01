@@ -1,0 +1,6 @@
+{
+  "name": "Administrador de Participación MUN",
+  "description": "Sistema completo para gestionar la participación en Modelos de Naciones Unidas: registro de delegados, asignación de comités y países, portales para escuelas con selección de participantes, control de pagos con folios y reportes detallados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
